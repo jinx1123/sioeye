@@ -1,0 +1,104 @@
+2019-11-26 02:44:32.208 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:44:32.257 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:46:12.326 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:46:12.403 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:46:24.166 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:46:24.168 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 02:46:40.726 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:46:40.773 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:48:58.792 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:48:58.840 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:49:55.844 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:49:55.890 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:49:55.935 [main] INFO 
+				c.s.disney.transition.CompareApp - 比对数据成功 orderitem 的 id:FFFC3B52BF3C4719993C500D1BC9BC69
+2019-11-26 02:49:55.936 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 02:58:28.912 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:58:28.971 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 02:59:42.531 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 02:59:42.578 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 02:59:50.935 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 02:59:50.937 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 03:00:11.370 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 03:00:11.430 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:01:06.284 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:01:09.527 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 03:01:56.865 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 03:01:56.916 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:02:02.024 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:02:02.025 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 03:02:12.351 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 03:02:12.410 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:03:30.032 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:03:30.035 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 03:03:49.046 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 03:03:49.114 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:03:49.172 [main] INFO 
+				c.s.disney.transition.CompareApp - 比对数据成功 orderitem 的 id:DACC9466AFBB45B193B15E93A1FA3E1F
+2019-11-26 03:03:49.173 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 05:37:45.505 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 05:37:46.399 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:37:46.441 [main] INFO 
+				c.s.disney.transition.CompareApp - 比对数据成功 orderitem 的 id:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:37:47.245 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 05:39:59.069 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 05:39:59.121 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:39:59.177 [main] INFO 
+				c.s.disney.transition.CompareApp - data is error!!! , objectId:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:39:59.178 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 05:44:03.152 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 05:44:03.222 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:44:03.282 [main] INFO 
+				c.s.disney.transition.CompareApp - 比对数据成功 orderitem 的 id:3897AA3C833C4158B0F208F2ED125351
+2019-11-26 05:44:03.283 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
+2019-11-26 05:46:35.841 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought第1次执行比对,本次循环1条数据
+2019-11-26 05:46:35.883 [main] INFO 
+				c.s.disney.transition.CompareApp - 开始比对orderitem 的 id:37EE45ADDFBF4D24AAD5AB5512ED1025
+2019-11-26 05:46:35.930 [main] INFO 
+				c.s.disney.transition.CompareApp - 比对数据成功 orderitem 的 id:37EE45ADDFBF4D24AAD5AB5512ED1025
+2019-11-26 05:46:35.930 [main] INFO 
+				c.s.disney.transition.CompareApp - clipbought数据比对成功，一共比对数据1条.
